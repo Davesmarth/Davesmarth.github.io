@@ -510,8 +510,8 @@ vertex3d.prototype = {
 		{text:"A", sphereRadius:100, sphereSpace:60, unitTime:150, time:3500},
 		{text:"HAPPY", sphereRadius:120, sphereSpace:70, unitTime:50, time:2000},
 		{text:"BIRTHDAY", sphereRadius:100, sphereSpace:60, unitTime:100, time:3500},
-		{text:"IM", sphereRadius:140, sphereSpace:80, unitTime:100, time:2500},
-		{text:"DAVID", sphereRadius:60 + Math.random()*60, sphereSpace:200, unitTime:100, time:4000}
+		{text:"IM", sphereRadius:120, sphereSpace:80, unitTime:100, time:2500},
+		{text:"DAVID", sphereRadius:120, sphereSpace:200, unitTime:100, time:4000}
 	];
 	
 	var textSetChangerIncrement = 0;
