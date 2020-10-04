@@ -499,7 +499,7 @@ vertex3d.prototype = {
 		};
 	};
 	var textSet = [
-		{text:"MARIEL", sphereRadius:140, sphereSpace:80, unitTime:100, time:1000},
+		{text:"MARIEL", sphereRadius:110, sphereSpace:80, unitTime:100, time:1000},
 		{text:"I", sphereRadius:120, sphereSpace:70, unitTime:120, time:4000},
 		{text:"JUST", sphereRadius:120, sphereSpace:70, unitTime:50, time:2000},
 		{text:"WANT", sphereRadius:120, sphereSpace:70, unitTime:100, time:4000},
